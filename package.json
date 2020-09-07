@@ -26,5 +26,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Doug Moore Portfolio",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllAroundD/react-portfolio-dougmoore.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Doug Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllAroundD/react-portfolio-dougmoore/issues"
+  },
+  "homepage": "https://github.com/AllAroundD/react-portfolio-dougmoore#readme"
 }

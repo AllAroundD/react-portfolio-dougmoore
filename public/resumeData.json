@@ -1,72 +1,68 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Doug Moore",
+    "occupation": "Application Developer && Full Stack Developer",
+    "description": "Application Developer / Full Stack React Developer",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "My name is Doug, I'm a Full Stack ReactJS Developer. A detail-oriented and collaborative Consultant Application Developer with extensive experience in the financial industry. Recently certified for Full Stack Web Development. Reliable team player skilled in multiple programming languages, Oracle Database, Data Warehousing, and Reporting tools. Strong analytical skills support a proven ability to effectively resolve problems.  Applies an active listening approach to encourage productive teamwork while developing and maintaining effective working relationships across an organization. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "dougmoore@use.startmail.com",
+    "phone": "416-855-4398",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "322-101 Erskine Avenue",
+      "city": "Toronto",
+      "state": "ON",
+      "zip": "M4P 0C5"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/mooredo/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/doug-moore-dev/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/AllAroundD",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "HTML5, CSS, JavaScript, NodeJS, React, MongoDB, MySQL, Java, SQL, Oracle, Bootstrap",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "University of Toronto Schoold of Contuining Studies",
+        "degree": "Certificate Full Stack Web Development",
+        "graduated": "August 2020",
+        "description": "Graduated with A+"
+      },
+      {
+        "school": "Seneca College",
+        "degree": "Diploma Computer Programmer and Analysis",
+        "graduated": "May 1999",
+        "description": "Graduated with Honours"
       }
+
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "CIBC",
+        "title": "Application Developer",
+        "years": "May 1999 - March 2020",
+        "description": "Application Developer with a support role"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "70%"
       },
       {
         "name": "CSS",
@@ -74,7 +70,7 @@
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "90%"
       },
       {
         "name": "Figma && Adobe XD",
@@ -82,7 +78,7 @@
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name": "MongoDB",
@@ -131,7 +127,7 @@
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "That Doug Moore must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
