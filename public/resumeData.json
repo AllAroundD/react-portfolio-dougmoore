@@ -3,7 +3,7 @@
     "name": "Doug Moore",
     "occupation": "Application Developer && Full Stack Developer",
     "description": "Application Developer / Full Stack React Developer",
-    "image": "IG_Sonny.jpeg",
+    "image": "IG_Doug.jpeg",
     "bio": "My name is Doug, I'm a Full Stack ReactJS Developer. A detail-oriented and collaborative Consultant Application Developer with extensive experience in the financial industry. Recently certified for Full Stack Web Development. Reliable team player skilled in multiple programming languages, Oracle Database, Data Warehousing, and Reporting tools. Strong analytical skills support a proven ability to effectively resolve problems.  Applies an active listening approach to encourage productive teamwork while developing and maintaining effective working relationships across an organization. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "dougmoore@use.startmail.com",
@@ -14,8 +14,8 @@
       "state": "ON",
       "zip": "M4P 0C5"
     },
-    "website": "https://allaroundd.github.io/myportfolio/",
-    "resumedownload": "https://allaroundd.github.io/myportfolio/",
+    "website": "https://dougmoore.herokuapp.com/",
+    "resumedownload": "https://dougmoore.herokuapp.com/assets/DougMoore_Resume.pdf",
     "social": [
       {
         "name": "facebook",
@@ -38,7 +38,7 @@
     "skillmessage": "HTML5, CSS, JavaScript, NodeJS, React, MongoDB, MySQL, Java, SQL, Oracle, Bootstrap",
     "education": [
       {
-        "school": "University of Toronto Schoold of Contuining Studies",
+        "school": "University of Toronto School of Contuining Studies",
         "degree": "Certificate Full Stack Web Development",
         "graduated": "August 2020",
         "description": "Graduated with A+"
@@ -123,8 +123,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Thank you for going above and beyond assisting our client! Your thorough investigation skills, prompt response turnaround time and care to our clients made a big difference in achieving the results. You are a true Client Champion! We appreciate your support as always!",
+        "user": "Rain Zuo"
       },
       {
         "text": "That Doug Moore must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
