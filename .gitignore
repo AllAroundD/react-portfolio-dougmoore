@@ -10,6 +10,8 @@ node_modules
 # production
 /build
 
+/public/resumeData_orig.json
+
 # misc
 .DS_Store
 .env.local
