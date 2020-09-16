@@ -79,6 +79,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amazon-clone.png",
+        "url": "https://clone-e97a0.web.app"
+      },
+      {
         "title": "MERN Stack WhatsApp Clone",
         "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "whatsapp-mern.jpeg",
