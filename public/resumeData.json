@@ -38,7 +38,7 @@
     "skillmessage": "HTML5, CSS, JavaScript, NodeJS, React, MongoDB, MySQL, Java, SQL, Oracle, Bootstrap",
     "education": [
       {
-        "school": "University of Toronto School of Contuining Studies",
+        "school": "University of Toronto School of Continuing Studies",
         "degree": "Certificate Full Stack Web Development",
         "graduated": "August 2020",
         "description": "Graduated with A+"
@@ -49,7 +49,6 @@
         "graduated": "May 1999",
         "description": "Graduated with Honours"
       }
-
     ],
     "work": [
       {
@@ -61,28 +60,28 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "70%"
+        "name": "HTML5",
+        "level": "100%"
       },
       {
         "name": "CSS",
         "level": "95%"
       },
       {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
         "name": "Git",
         "level": "90%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
-        "name": "HTML5",
-        "level": "100%"
-      },
-      {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
       }
     ]
   },
