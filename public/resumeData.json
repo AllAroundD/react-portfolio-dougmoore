@@ -23,6 +23,11 @@
         "className": "fa fa-linkedin"
       },
       {
+        "name": "instagram",
+        "url": "https://www.instagram.com/allaroundweb/",
+        "className": "fa fa-instagram"
+      },
+      {
         "name": "github",
         "url": "https://github.com/AllAroundD",
         "className": "fa fa-github"
