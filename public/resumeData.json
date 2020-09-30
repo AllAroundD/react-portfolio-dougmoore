@@ -9,10 +9,8 @@
     "email": "dougmoore@use.startmail.com",
     "phone": "416-855-4398",
     "address": {
-      "street": "322-101 Erskine Avenue",
       "city": "Toronto",
-      "state": "ON",
-      "zip": "M4P 0C5"
+      "state": "ON"
     },
     "website": "https://dougmoore.herokuapp.com/",
     "resumedownload": "https://dougmoore.herokuapp.com/assets/DougMoore_Resume.pdf",
