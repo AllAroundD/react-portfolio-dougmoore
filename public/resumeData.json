@@ -90,34 +90,34 @@
         "url": "https://clone-e97a0.web.app"
       },
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Card Generator",
+        "category": "My second group project using Javascript, mysql, ORM, and an image uploader",
+        "image": "GroupProject2.gif",
+        "url": "https://cryptic-journey-45384.herokuapp.com/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Mood-Food-and-Chill",
+        "category": "My first group project using 2 apis",
+        "image": "GroupProject1.jpg",
+        "url": "https://eddiesteban.github.io/Mood-Food-and-Chill/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Note Taker",
+        "category": "Application that can be used to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.",
+        "image": "NoteTaker-demo.jpg",
+        "url": "https://enigmatic-tor-32580.herokuapp.com/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Weather Dashboard",
+        "category": "A simple weather dashboard with 5-day forecast using api",
+        "image": "weatherdashboard.jpg",
+        "url": "https://allaroundd.github.io/weatherdashboard/"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Work Day Scheduler",
+        "category": "A work day scheduler that uses local storage",
+        "image": "scheduler.jpg",
+        "url": "https://allaroundd.github.io/scheduler/"
       }
     ]
   },
