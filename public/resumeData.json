@@ -88,6 +88,12 @@
         "url": "https://clone-e97a0.web.app"
       },
       {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflix-clone-c211f.web.app/"
+      },
+      {
         "title": "Card Generator",
         "category": "My second group project using Javascript, mysql, ORM, and an image uploader",
         "image": "GroupProject2.gif",
