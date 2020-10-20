@@ -45,15 +45,15 @@ const Contact = ({ data }) => {
          <div className="full-width">
             <h1 className="mb-5 text-center">Let's connect</h1>
             <div className="row">
-               <div className="third-width text-center" style={{ border: '#903749 solid' }}>
+               <div className="third-width text-center" style={{ border: '#F06000 solid' }}>
                   <h2>Hire me</h2>
                   <p>< a href={`mailto:${email}`}>{email}</a></p>
                </div>
-               <div className="third-width text-center" style={{ border: '#903749 solid' }}>
+               <div className="third-width text-center" style={{ border: '#F06000 solid' }}>
                   <h2>Follow Me</h2>
                   <ul className="social">{networks}</ul>
                </div>
-               <div className="third-width text-center" style={{ border: '#903749 solid' }}>
+               <div className="third-width text-center" style={{ border: '#F06000 solid' }}>
                   <h2>Meet me</h2>
                   <p>
                      {city}, {state}<br />
