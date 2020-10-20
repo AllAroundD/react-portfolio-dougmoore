@@ -2,9 +2,9 @@
   "main": {
     "name": "Doug Moore",
     "occupation": "Application Developer & Full Stack Developer",
-    "description": "Application Developer / Full Stack React Developer",
-    "image": "IG_Doug.jpeg",
-    "bio": "My name is Doug, I'm a Full Stack ReactJS Developer. A detail-oriented and collaborative Consultant Application Developer with extensive experience in the financial industry. Recently certified for Full Stack Web Development. Reliable team player skilled in multiple programming languages, Oracle Database, Data Warehousing, and Reporting tools. Strong analytical skills support a proven ability to effectively resolve problems.  Applies an active listening approach to encourage productive teamwork while developing and maintaining effective working relationships across an organization. ",
+    "description": "Well-rounded Application Developer with a love for web development and to help others.  #allaroundD",
+    "image": "IG_Doug2.jpg",
+    "bio": "My name is Doug, I'm a Full Stack ReactJS Developer. A detail-oriented and collaborative Consultant Application Developer with extensive experience in the financial industry. Recently received certification for Full Stack Web Development. Reliable team player skilled in multiple programming languages, Oracle Database, Data Warehousing, and Reporting tools. Strong analytical skills support a proven ability to effectively resolve problems.  Applies an active listening approach to encourage productive teamwork while developing and maintaining effective working relationships across an organization. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "dougmoore@use.startmail.com",
     "phone": "416-855-4398",
@@ -21,14 +21,14 @@
         "className": "fa fa-linkedin"
       },
       {
+        "name": "github",
+        "url": "https://github.com/AllAroundD/",
+        "className": "fa fa-github"
+      },
+      {
         "name": "instagram",
         "url": "https://www.instagram.com/allaroundweb/",
         "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/AllAroundD",
-        "className": "fa fa-github"
       }
     ]
   },
@@ -53,29 +53,69 @@
         "company": "CIBC",
         "title": "Application Developer",
         "years": "May 1999 - March 2020",
-        "description": "Application Developer with a support role"
+        "description": "Designed, developed and supported a suite of 10 Financial Business Intelligence Reporting applications, including root cause analysis of Production incidents, to ensure application availability and achievement of client Service Level Agreements (SLAs). Support required monitoring batch jobs and being on an on-call rotation to troubleshoot and resolve incidents to prevent or minimize impact."
       }
     ],
     "skills": [
       {
         "name": "HTML5",
-        "level": "100%"
+        "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "CSS3",
+        "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
       },
       {
-        "name": "ReactJs",
-        "level": "70%"
+        "name": "JavaScript",
+        "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
       },
       {
-        "name": "Git",
-        "level": "90%"
+        "name": "React",
+        "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+      },
+      {
+        "name": "Node.js",
+        "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+      },
+      {
+        "name": "SQL",
+        "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"
+      },
+      {
+        "name": "MySQL",
+        "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
+      },
+      {
+        "name": "Git",
+        "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+      },
+      {
+        "name": "GitHub",
+        "img": "https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
+      },
+      {
+        "name": "Terminal",
+        "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+      },
+      {
+        "name": "Visual Studio Code",
+        "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+      },
+      {
+        "name": "Bootstrap",
+        "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
+      },
+      {
+        "name": "Java",
+        "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
+      },
+      {
+        "name": "Oracle",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/512px-Oracle_logo.svg.png"
       }
     ]
   },
@@ -101,7 +141,7 @@
       },
       {
         "title": "Mood-Food-and-Chill",
-        "category": "My first group project using 2 apis",
+        "category": "My first group project using 2 APIs",
         "image": "GroupProject1.jpg",
         "url": "https://eddiesteban.github.io/Mood-Food-and-Chill/"
       },
@@ -113,7 +153,7 @@
       },
       {
         "title": "Weather Dashboard",
-        "category": "A simple weather dashboard with 5-day forecast using api",
+        "category": "A simple weather dashboard with 5-day forecast using API",
         "image": "weatherdashboard.jpg",
         "url": "https://allaroundd.github.io/weatherdashboard/"
       },
@@ -129,11 +169,11 @@
     "testimonials": [
       {
         "text": "Thank you for going above and beyond assisting our client! Your thorough investigation skills, prompt response turnaround time and care to our clients made a big difference in achieving the results. You are a true Client Champion! We appreciate your support as always!",
-        "user": "Rain Zuo"
+        "user": "Rain Zuo -- from an Impact Award"
       },
       {
-        "text": "Doug has a very good understanding of the reporting tools and applications we support. He is diligent and dependable for production application support. For change requests, Doug will see the tasks through to the end. Doug is a strong team playing, always willing to help other team members.",
-        "user": "Eva Chan"
+        "text": "Doug has a very good understanding of the reporting tools and applications we support. He is diligent and dependable for production application support. For change requests, Doug will see the tasks through to the end. Doug is a strong team player, always willing to help other team members.",
+        "user": "Eva Chan -- from a performance review"
       }
     ]
   }

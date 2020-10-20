@@ -1,82 +1,69 @@
+// eslint-disable-next-line 
 import React, { useState } from 'react';
 
 const Contact = ({ data }) => {
-   // const [url, setUrl] = useState('mailto:test@example.com?subject=subject&body=body');
-   const [name, setName] = useState('');
-   const [subject, setSubject] = useState('');
-   const [email, setEmail] = useState('');
-   const [message, setMessage] = useState('');
+   let networks = '', email = '', city = '', state = '';
 
-   console.log(data)
-
-   const handleClick = (e) => {
-      e.preventDefault();
-      window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
+   if (data) {
+      // for social media links
+      networks = data.social.map(function (network) {
+         return <li key={network.name}>
+            <a href={network.url}
+               target="_blank"
+               rel="noopener noreferrer">
+               <i className={'social ' + network.className}></i>
+            </a>
+         </li >
+      })
+      email = data.email;
+      city = data.address.city;
+      state = data.address.state;
    }
 
    return (
       <section id="contact">
-         <div className="row section-head">
-            <div className="two columns header-col">
-               <h1><span>Get In Touch.</span></h1>
+         {/* <div className="full-width">
+            <h1 className="mb-5 text-center">Let's connect</h1>
+            <div className="third-width text-center" style={{ border: 'blue solid' }}>
+               <h2>Hire me</h2>
+               <p>< a href={`mailto:${email}`}>{email}</a></p>
             </div>
-            <div className="ten columns">
-               <p className="lead">{data?.message}</p>
+            <div className="third-width text-center" style={{ border: 'red solid' }}>
+               <h2>Follow Me</h2>
+               <ul className="social">{networks}</ul>
             </div>
-         </div>
-         <div className="row">
-            <div className="eleven columns">
-               <form id="contactForm" name="contactForm">
-                  <fieldset>
-                     <div>
-                        <label htmlFor="contactName">Name <span className="required">*</span></label>
-                        <input value={name} type="text" defaultValue="" size="35" id="contactName" name="contactName" onChange={e => setName(e.target.value)} />
-                     </div>
-                     <div>
-                        <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-                        <input value={email} type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={e => setEmail(e.target.value)} />
-                     </div>
-                     <div>
-                        <label htmlFor="contactSubject">Subject</label>
-                        <input value={subject} type="text" defaultValue="" size="35" id="contactSubject" name="contactSubject" onChange={e => setSubject(e.target.value)} />
-                     </div>
-                     <div>
-                        <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                        <textarea value={message} onChange={e => setMessage(e.target.value)} cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
-                     </div>
-                     <div>
-                        <button type='submit' onClick={handleClick} className="submit">Submit</button>
-                        <span id="image-loader">
-                           <img alt="" src="images/loader.gif" />
-                        </span>
-                     </div>
-                  </fieldset>
-               </form>
+            <div className="third-width text-center" style={{ border: 'green solid' }}>
+               <h2>Meet me</h2>
+               <p>
+                  {city}, {state}<br />
+                  Let's go to meetups together!
+               </p>
+            </div>
+         </div> */}
 
-               <div id="message-warning">Error</div>
-               <div id="message-success">
-                  <i className="fa fa-check"></i>Your message was sent, thank you!<br />
+
+         <div className="full-width">
+            <h1 className="mb-5 text-center">Let's connect</h1>
+            <div className="row">
+               <div className="third-width text-center" style={{ border: '#903749 solid' }}>
+                  <h2>Hire me</h2>
+                  <p>< a href={`mailto:${email}`}>{email}</a></p>
                </div>
-            </div>
-
-            {/* <aside className="four columns footer-widgets">
-               <div className="widget widget_contact">
-
-                  <h4>Phone</h4>
-                  <p className="address">
-                     {data?.name}<br />
-                     {data?.address.street} <br />
-						   {data?.address.city}, {data?.address.state} {data?.address.zip}<br />}
-                     {<span>{data?.phone}</span>
+               <div className="third-width text-center" style={{ border: '#903749 solid' }}>
+                  <h2>Follow Me</h2>
+                  <ul className="social">{networks}</ul>
+               </div>
+               <div className="third-width text-center" style={{ border: '#903749 solid' }}>
+                  <h2>Meet me</h2>
+                  <p>
+                     {city}, {state}<br />
+                     Let's go to meetups together!
                   </p>
                </div>
 
-               <div className="widget widget_tweets">
-
-               </div>
-            </aside> */}
+            </div>
          </div>
-      </section>
+      </section >
    );
 }
 
