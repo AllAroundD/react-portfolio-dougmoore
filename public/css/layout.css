@@ -644,19 +644,19 @@ ul#nav li.current a {
 .portfolio-item .links .source-url {
    text-align: center;
    width: 50px;
-   background-color: rgb(241, 149, 87);
+   background-color: #525252;
    color: #fff;
 }
 
 .portfolio-item .links .live-url {
    text-align: center;
    width: 50px;
-   background-color: rgb(241, 149, 87);
+   background-color: #525252;
    color: #fff;
 }
 
 .links .source-url:hover, .links .live-url:hover {
-   background-color: #F06000;
+   background-color: #0F9095;
 }
 
 /* popup modal */
@@ -1046,11 +1046,13 @@ call-to-action .button {
 }
 
 #contact a, #contact a:visited {
-   color: #11ABB0;
+   /* color: #11ABB0; */
+   color: #fff;
 }
 
 #contact a:hover, #contact a:focus {
-   color: #fff;
+   /* color: #fff; */
+   color: #11ABB0;
 }
 
 #contact h1 {
