@@ -7,15 +7,31 @@ class Portfolio extends Component {
         var projectImage = 'images/portfolio/' + projects.image;
         return <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap">
-            <a href={projects.url} title={projects.title}>
-              <img alt={projects.title} src={projectImage} />
-              <div className="overlay">
-                <div className="portfolio-item-meta">
-                  <h5>{projects.title}</h5>
-                  <p>{projects.category}</p>
-                </div>
+            {/* <a href={projects.url} title={projects.title}> */}
+            <img alt={projects.title} src={projectImage} />
+            <div className="overlay">
+              <div className="portfolio-item-meta">
+                <h5>{projects.title}</h5>
+                <p>{projects.category}</p>
               </div>
-              <div className="link-icon"><i className="fa fa-link"></i></div>
+            </div>
+            {/* <div className="link-icon"><i className="fa fa-link"></i></div> */}
+            {/* </a> */}
+          </div>
+          <div className="links">
+            <a href={projects.source}
+              title={projects.title}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="link-icon source-url">
+              <i className="fa fa-github"></i>
+            </a>
+            <a href={projects.url}
+              title={projects.title}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="link-icon live-url">
+              <i className="fa fa-link"></i>
             </a>
           </div>
         </div>

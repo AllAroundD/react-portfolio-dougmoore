@@ -125,43 +125,50 @@
         "title": "Amazon Clone",
         "category": "Amazon Clone built with ReactJS",
         "image": "amazon-clone.png",
-        "url": "https://clone-e97a0.web.app"
+        "url": "https://clone-e97a0.web.app",
+        "source": "https://github.com/AllAroundD/amazon-clone/"
       },
       {
         "title": "Netflix Clone",
         "category": "Netflix Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
-        "url": "https://netflix-clone-c211f.web.app/"
+        "url": "https://netflix-clone-c211f.web.app/",
+        "source": "https://github.com/AllAroundD/netflix-clone/"
       },
       {
         "title": "Card Generator",
         "category": "My second group project using Javascript, mysql, ORM, and an image uploader",
         "image": "GroupProject2.gif",
-        "url": "https://cryptic-journey-45384.herokuapp.com/"
+        "url": "https://cryptic-journey-45384.herokuapp.com/",
+        "source": "https://github.com/AllAroundD/card-generator/"
       },
       {
         "title": "Mood-Food-and-Chill",
         "category": "My first group project using 2 APIs",
         "image": "GroupProject1.jpg",
-        "url": "https://eddiesteban.github.io/Mood-Food-and-Chill/"
+        "url": "https://eddiesteban.github.io/Mood-Food-and-Chill/",
+        "source": "https://github.com/AllAroundD/Mood-Food-and-Chill/"
       },
       {
         "title": "Note Taker",
         "category": "Application that can be used to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.",
         "image": "NoteTaker-demo.jpg",
-        "url": "https://enigmatic-tor-32580.herokuapp.com/"
+        "url": "https://enigmatic-tor-32580.herokuapp.com/",
+        "source": "https://github.com/AllAroundD/note-taker/"
       },
       {
         "title": "Weather Dashboard",
         "category": "A simple weather dashboard with 5-day forecast using API",
         "image": "weatherdashboard.jpg",
-        "url": "https://allaroundd.github.io/weatherdashboard/"
+        "url": "https://allaroundd.github.io/weatherdashboard/",
+        "source": "https://github.com/AllAroundD/weatherdashboard/"
       },
       {
         "title": "Work Day Scheduler",
         "category": "A work day scheduler that uses local storage",
         "image": "scheduler.jpg",
-        "url": "https://allaroundd.github.io/scheduler/"
+        "url": "https://allaroundd.github.io/scheduler/",
+        "source": "https://github.com/AllAroundD/scheduler/"
       }
     ]
   },

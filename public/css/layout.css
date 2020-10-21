@@ -632,6 +632,33 @@ ul#nav li.current a {
    filter: alpha(opacity=100);
 }
 
+.portfolio-item .links {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   font-size: x-large;
+   padding-left: 5rem;
+   padding-right: 5rem;
+}
+
+.portfolio-item .links .source-url {
+   text-align: center;
+   width: 50px;
+   background-color: rgb(241, 149, 87);
+   color: #fff;
+}
+
+.portfolio-item .links .live-url {
+   text-align: center;
+   width: 50px;
+   background-color: rgb(241, 149, 87);
+   color: #fff;
+}
+
+.links .source-url:hover, .links .live-url:hover {
+   background-color: #F06000;
+}
+
 /* popup modal */
 
 .popup-modal {
