@@ -136,6 +136,13 @@
         "source": "https://github.com/AllAroundD/netflix-clone/"
       },
       {
+        "title": "Discord Clone",
+        "category": "Discord Clone built with ReactJS and Firestore",
+        "image": "discord-clone.jpeg",
+        "url": "https://discord-clone-85cc9.web.app/",
+        "source": "https://github.com/AllAroundD/discord-clone/"
+      },
+      {
         "title": "Card Generator",
         "category": "My second group project using Javascript, mysql, ORM, and an image uploader",
         "image": "GroupProject2.gif",
