@@ -22,26 +22,6 @@ const Contact = ({ data }) => {
 
    return (
       <section id="contact">
-         {/* <div className="full-width">
-            <h1 className="mb-5 text-center">Let's connect</h1>
-            <div className="third-width text-center" style={{ border: 'blue solid' }}>
-               <h2>Hire me</h2>
-               <p>< a href={`mailto:${email}`}>{email}</a></p>
-            </div>
-            <div className="third-width text-center" style={{ border: 'red solid' }}>
-               <h2>Follow Me</h2>
-               <ul className="social">{networks}</ul>
-            </div>
-            <div className="third-width text-center" style={{ border: 'green solid' }}>
-               <h2>Meet me</h2>
-               <p>
-                  {city}, {state}<br />
-                  Let's go to meetups together!
-               </p>
-            </div>
-         </div> */}
-
-
          <div className="full-width">
             <h1 className="mb-5 text-center">Let's connect</h1>
             <div className="row">
@@ -60,7 +40,6 @@ const Contact = ({ data }) => {
                      Let's go to meetups together!
                   </p>
                </div>
-
             </div>
          </div>
       </section >

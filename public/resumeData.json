@@ -13,7 +13,7 @@
       "state": "ON"
     },
     "website": "https://dougmoore.herokuapp.com/",
-    "resumedownload": "https://dougmoore.herokuapp.com/assets/DougMoore_Resume.pdf",
+    "resumedownload": "./media/DougMoore_Resume.pdf",
     "social": [
       {
         "name": "linkedin",
