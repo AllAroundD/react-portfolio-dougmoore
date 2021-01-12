@@ -1,12 +1,14 @@
-# Doug Moore Portfolio      
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f3c888fd-5f79-4ae4-8f74-a12ed3d4eacc/deploy-status)](https://app.netlify.com/sites/dougmoore/deploys)
+
+# Doug Moore Portfolio
 
 ## Description
-This is Doug Moore's ReactJS based personal resume website.
+
+This is Doug Moore's ReactJS based personal portfolio website.
 
 ## Credits
 
-#### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
-
+#### Template credit goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
 
 HTML Design Template
 <a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
