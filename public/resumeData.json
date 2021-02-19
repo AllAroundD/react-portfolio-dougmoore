@@ -184,8 +184,16 @@
   "testimonials": {
     "testimonials": [
       {
+        "text": "Doug is an incredibly experienced developer with working knowledge of SQL/NoSQL, React, Node, and Express. He has an amazing understanding of web technologies and can learn new concepts with ease, he is also very friendly, optimistic, down-to-earth, and overall great to work with.",
+        "user": "Daniel Ceballos -- from a LinkedIn recommendation"
+      },
+      {
         "text": "Thank you for going above and beyond assisting our client! Your thorough investigation skills, prompt response turnaround time and care to our clients made a big difference in achieving the results. You are a true Client Champion! We appreciate your support as always!",
         "user": "Rain Zuo -- from an Impact Award"
+      },
+      {
+        "text": "Doug is a committed and reliable team member on whom I can always depend. As a manager of over 25 developers and analysts, Doug was one of my go-to members for many assignments and when I need problem-solving. He is detail-oriented and knowledgeable in delivering quality work. His friendly and calm demeanour makes everyone on the team love working with him. Doug is a team player who is always willing to help and support the team. It was a great pleasure to work with Doug.",
+        "user": "Eva Chan -- from a LinkedIn recommendation"
       },
       {
         "text": "Doug has a very good understanding of the reporting tools and applications we support. He is diligent and dependable for production application support. For change requests, Doug will see the tasks through to the end. Doug is a strong team player, always willing to help other team members.",
