@@ -545,6 +545,7 @@ ul#nav li.current a {
 #portfolio-wrapper {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 /* Portfolio Content */
