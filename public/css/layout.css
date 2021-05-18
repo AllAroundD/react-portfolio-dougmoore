@@ -54,6 +54,7 @@ header:before {
 }
 
 header #nav .smoothscroll:hover {
+  color: #11abb0;
   transition: transform 0.2s;
   transform: scale(1.1);
 }
@@ -256,10 +257,11 @@ ul#nav li.current a {
 }
 
 #about .profile-pic {
-  position: relative;
-  width: 150px;
-  /* height: 130px; */
-  border-radius: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  width: 15rem;
+  height: 15rem;
+  transform: translateY(0.5rem);
 }
 
 #about .contact-details {
@@ -279,12 +281,14 @@ ul#nav li.current a {
 #contact .download .button {
   margin-top: 6px;
   background: #444;
+  transition: transform 0.2s;
 }
 
 #about .download .button:hover,
 #contact .download .button:hover {
   background: #fff;
   color: #2b2b2b;
+  transform: scale(1.1);
 }
 
 #about .download .button i,
