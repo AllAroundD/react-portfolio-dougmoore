@@ -1222,19 +1222,11 @@ call-to-action .button {
   height: 20rem;
 }
 
-#contact .social {
-  /* margin: 24px 0; */
-  /* margin: 0 26px; */
-  /* padding: 0; */
+#contact .social li {
   font-size: 60px;
   text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.8);
-  /* color: #fff; */
-  justify-content: space-between;
-  /* justify-content: space-evenly; */
-  align-items: center;
-  /* border: #fff solid; */
-  display: flex;
-  width: 100%;
+  display: inline-block;
+  margin: 0 15px;
 }
 
 #message-warning,
