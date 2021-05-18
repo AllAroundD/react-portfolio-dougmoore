@@ -385,6 +385,10 @@ ul#nav li.current a {
   padding: 0;
   text-align: left;
   /* border: #0f0f0f solid; */
+
+  padding: 1rem;
+
+  transition: all 0.2s;
 }
 
 .skillList img {
@@ -394,6 +398,14 @@ ul#nav li.current a {
   width: 10rem;
   /* display: flex; */
   vertical-align: middle;
+}
+
+.skillList img:hover {
+  transform: scale(1.1);
+  /* border: #00cccc 1px solid; */
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  -moz-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow: 3px 3px 5px 6px #ccc;
 }
 
 .bars {
