@@ -392,7 +392,7 @@ ul#nav li.current a {
 
   padding: 1rem;
 
-  transition: all 0.2s;
+  transition: transform 450ms;
 }
 
 .skillList img {

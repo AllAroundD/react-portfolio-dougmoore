@@ -2,7 +2,7 @@
   "main": {
     "name": "Doug Moore",
     "occupation": "Application Developer & Full Stack Developer",
-    "description": "Well-rounded Application Developer with a love for web development and to help others.  #allaroundD",
+    "description": "with a love for web development and to help others.  #allaroundD",
     "image": "IG_Doug2.jpg",
     "bio": "My name is Doug, I'm a Full Stack ReactJS Developer. A detail-oriented and collaborative Application Developer with extensive experience in the financial industry. I'm a reliable team player skilled in multiple programming languages, multiple database platforms, Data Warehousing, and Reporting tools. Strong analytical skills support a proven ability to effectively resolve problems. I apply an active listening approach to encourage productive teamwork while developing and maintaining effective working relationships across an organization. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -117,6 +117,13 @@
   "portfolio": {
     "projects": [
       {
+        "title": "eCommerce App",
+        "category": "ecommerce app built using MERN stack, ReactJS & Redux, Cloudinary",
+        "image": "ecommerce-demo.jpg",
+        "url": "https://ecommerce-store-dm.netlify.app/",
+        "source": "https://github.com/AllAroundD/ecommerce-front"
+      },
+      {
         "title": "DevConnector MERN App",
         "category": "Small social network app built using MERN stack, ReactJS & Redux",
         "image": "devconnector-demo.jpg",
@@ -143,20 +150,6 @@
         "image": "discord-clone.jpeg",
         "url": "https://discord-clone-85cc9.web.app/",
         "source": "https://github.com/AllAroundD/discord-clone/"
-      },
-      {
-        "title": "Card Generator",
-        "category": "My second group project using Javascript, mysql, ORM, and an image uploader",
-        "image": "GroupProject2.jpg",
-        "url": "https://cryptic-journey-45384.herokuapp.com/",
-        "source": "https://github.com/AllAroundD/card-generator/"
-      },
-      {
-        "title": "Mood-Food-and-Chill",
-        "category": "My first group project using 2 APIs",
-        "image": "GroupProject1.jpg",
-        "url": "https://eddiesteban.github.io/Mood-Food-and-Chill/",
-        "source": "https://github.com/AllAroundD/Mood-Food-and-Chill/"
       },
       {
         "title": "Note Taker",
